@@ -1,4 +1,4 @@
-# <img src="aalcorlogo.png" alt="Alcor Logo" width="60" height="60" align="center"> Alcor GNU/Linux
+# <img src="logo.png" alt="Alcor Logo" width="60" height="60" align="center"> Alcor GNU/Linux
 
 Alcor GNU/Linux is an independent, offensive security-focused, and lightweight operating system built on top of a robust Arch Linux base. Designed for enthusiasts, developers, and penetration testers who want a fast, clean, and highly customizable environment without system bloat.
 
