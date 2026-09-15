@@ -1,3 +1,25 @@
+# <img src="pp.png" alt="Me" width="240" height="480" align="center"> 
+## ABOUT ME
+
+* 🛡️ Active in the cyber security industry for **4 years**.
+* 💿 Developing custom Linux distributions (distros) for **1 year**.
+
+### I KNOW
+
+<p align="left">
+  <img src="https://skillicons.dev//icons?i=python,bash,cs,arduino,html,css,js,java,xml" />
+</p>
+
+### LEARNING
+<p align="left">
+  <img src="https://skillicons.dev//icons?i=rust,c,cpp" />
+</p>
+
+  > [!NOTE]
+![Views](https://komarev.com/ghpvc/?username=Altair-Alcor&color=red)
+
+[![Discord](https://img.shields.io/badge/Join%20Discord-red?style=for-the-badge&logo=discord)](https://github.com/Altair-Alcor)
+
 # <img src="logo.png" alt="Alcor Logo" width="60" height="60" align="center"> Alcor GNU/Linux
 
 Alcor GNU/Linux is an independent, offensive security-focused, and lightweight operating system built on top of a robust Arch Linux base. Designed for enthusiasts, developers, and penetration testers who want a fast, clean, and highly customizable environment without system bloat.
@@ -24,24 +46,4 @@ Scroll down and download the ISO.
 ```
 
 
-## ABOUT ME
-
-* 🛡️ Active in the cyber security industry for **4 years**.
-* 💿 Developing custom Linux distributions (distros) for **1 year**.
-
-### I KNOW
-
-<p align="left">
-  <img src="https://skillicons.dev//icons?i=python,bash,cs,arduino,html,css,js,java,xml" />
-</p>
-
-### LEARNING
-<p align="left">
-  <img src="https://skillicons.dev//icons?i=rust,c,cpp" />
-</p>
-
-  > [!NOTE]
-![Views](https://komarev.com/ghpvc/?username=Altair-Alcor&color=red)
-
-[![Discord](https://img.shields.io/badge/Join%20Discord-red?style=for-the-badge&logo=discord)](https://github.com/Altair-Alcor)
 
