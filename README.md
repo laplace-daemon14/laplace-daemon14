@@ -1,12 +1,16 @@
-# <img src="pp.png" alt="Me" width="240" height="480" align="center"> 
-## ABOUT ME
-
-* 🛡️ Active in the cyber security industry for **4 years**.
-* 💿 Developing custom Linux distributions (distros) for **1 year**.
-
-### I KNOW
-
-<p align="left">
+<table border="0">
+  <tr>
+    <td width="400" valign="top">
+      <img src="pp.png" alt="Me" width="100%">
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h2>ABOUT ME</h2>
+      <ul>
+        <li>🛡️ Active in the cyber security industry for <b>4 years</b>.</li>
+        <li>💿 Developing custom Linux distributions (distros) for <b>1 year</b>.</li>
+      </ul>
+      <h3>I KNOW</h3>
+      <p align="left">
   <img src="https://skillicons.dev//icons?i=python,bash,cs,arduino,html,css,js,java,xml" />
 </p>
 
@@ -14,6 +18,9 @@
 <p align="left">
   <img src="https://skillicons.dev//icons?i=rust,c,cpp" />
 </p>
+  </tr>
+</table>
+
 
   > [!NOTE]
 ![Views](https://komarev.com/ghpvc/?username=Altair-Alcor&color=red)
