@@ -199,9 +199,3 @@ Open an issue with your profile, kernel selection, hardware details and the rele
 ## LICENSE
 
 License information will be added with the stable project release.
-
-<div align="center">
-
-### ALCOR / BUILT FOR THE NEXT BOOT
-
-</div>
