@@ -26,7 +26,7 @@ An independent, lightweight Arch-based GNU/Linux environment for operators, deve
 
 <img src="pp.png" alt="Me" width="190">
 
-**ALTAIR / ALCOR**  
+**LaPlace**
 `BUILDING IN PUBLIC`
 
 </td>
