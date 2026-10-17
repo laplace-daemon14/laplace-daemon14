@@ -35,7 +35,7 @@ I enjoy understanding how systems work, experimenting with technical ideas, and 
 **Build a system with intent.**
 
 </div>
-<img src="https://github.com/logo.png" width="130" alt="Laplace's GitHub avatar">
+<img src="https://github.com/laplace-daemon14/laplace-daemon14/logo.png" width="130" alt="Laplace's GitHub avatar">
 
 Alcor GNU/Linux is an independent, lightweight, Arch-based operating system designed for developers, security enthusiasts, and penetration testers.
 
