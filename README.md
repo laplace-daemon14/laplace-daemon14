@@ -32,10 +32,11 @@ I enjoy understanding how systems work, experimenting with technical ideas, and 
 
 ### ALCOR GNU/LINUX
 
-**Build a system with intent.**
-
 </div>
-<img src="https://github.com/laplace-daemon14/laplace-daemon14/logo.png" width="130" alt="Laplace's GitHub avatar">
+<div align="center">
+  <img src="https://github.com/laplace-daemon14/laplace-daemon14/blob/main/logo.png" width="130" alt="alcor">
+</div>
+
 
 Alcor GNU/Linux is an independent, lightweight, Arch-based operating system designed for developers, security enthusiasts, and penetration testers.
 
@@ -90,9 +91,3 @@ I value understanding the underlying mechanisms, experimenting carefully, and bu
 - **Try Alcor:** [AlcorLinux-TRY](https://github.com/laplace-daemon14/AlcorLinux-TRY)
 
 ---
-
-<div align="center">
-
-*Learning by building. Improving by understanding.*
-
-</div>
