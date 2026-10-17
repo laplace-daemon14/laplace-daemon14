@@ -6,7 +6,7 @@
 
 ### Cybersecurity · Linux Systems · Open Source
 
-*Building systems with intent.*
+*Problem:Coding,Souliton:Coding.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-laplace--daemon14-181717?style=for-the-badge&logo=github)](https://github.com/laplace-daemon14)
 [![Alcor Linux](https://img.shields.io/badge/Project-Alcor%20GNU%2FLinux-ff3d46?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/laplace-daemon14/AlcorLinux)
